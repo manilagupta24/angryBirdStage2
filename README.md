@@ -1,2 +1,2 @@
-# angryBirdStage2
-angry bird fun game
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
